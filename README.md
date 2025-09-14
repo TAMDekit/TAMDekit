@@ -38,9 +38,6 @@ A modern web application that helps users manage tasks efficiently.
 ## 🤝 Open to Collaborate On
 Interesting projects that combine **design** and **functionality**.
 
-## ⚡ Fun Fact
-🎹 I can play Thai songs on Roblox Piano with optimized delay for expressive sound.
-
 ---
 
 ## 📊 GitHub Stats

@@ -7,8 +7,8 @@ Developer
 * 🇹🇭  I'm based in Pattaya
 * 🖥️  See my portfolio at [TAMDekit.com](http://TAMDekit.com)
 * ✉️  You can contact me at [toomtamcom.eng@gmail.com](mailto:toomtamcom.eng@gmail.com)
-  &nbsp;
-  &nbsp;
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,mysql,docker,git" />
 </p>

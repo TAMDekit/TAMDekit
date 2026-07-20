@@ -1,4 +1,4 @@
-Hi 👋 My name is Natthawat Rodchanathanatham
+<p align="center">Hi 👋 My name is Natthawat Rodchanathanatham</p>
 ============================================
 
 Developer

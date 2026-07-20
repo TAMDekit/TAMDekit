@@ -1,4 +1,4 @@
-Hi 👋 My name is Natthawat Rodchanathanatham
+Hi 👋🏻 My name is Natthawat Rodchanathanatham
 ============================================
 **I'm an Information Technology student at King Mongkut's University of Technology Thonburi (KMUTT)**
 

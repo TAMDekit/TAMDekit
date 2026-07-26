@@ -3,11 +3,6 @@ Hi 👋🏻 My name is Natthawat Rodchanathanatham
 
 Developer
 ---------
-
-* 🇹🇭  I'm based in Pattaya
-* 🖥️  See my portfolio at [TAMDekit.com](http://TAMDekit.com)
-* ✉️  You can contact me at [toomtamcom.eng@gmail.com](mailto:toomtamcom.eng@gmail.com)
-
 ## 
 
 ### Socials

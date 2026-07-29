@@ -3,7 +3,6 @@ Hi 👋🏻 My name is Natthawat Rodchanathanatham
 
 Developer
 ---------
-## 
 
 ### Socials
 

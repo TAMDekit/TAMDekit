@@ -88,27 +88,6 @@ Participated in cybersecurity competitions and hands-on security challenges invo
 
 ---
 
-## 🏆 Certifications & Activities
-
-* ITCAMP #21
-* TOBEIT 69
-* Thailand Cyber Talent 2025
-* Cybersecurity Training & Expert-Level Training — NCSA
-* Basic AI Assessment — AIAT
-* Gemini Assessment — Google for Education
-* Professional Training — Thai Oil Public Company Limited
-
----
-
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TAMDekit&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAMDekit&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Currently
 
 * 🎓 Studying Information Technology at **KMUTT SIT**

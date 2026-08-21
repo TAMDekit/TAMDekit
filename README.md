@@ -61,33 +61,6 @@ I enjoy building web applications, exploring security vulnerabilities, participa
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔭 Constellation Mapping
-
-An education and career guidance platform designed to help students discover suitable learning paths and connect their skills, projects, education, and career goals.
-
-**Roadmap:**
-`Interest → Skills → Projects → Portfolio → University → Career`
-
----
-
-### 🌐 Nangdee
-
-A web application developed as part of **ToBeIT 69**, focusing on building a practical full-stack solution and integrating web technologies with IoT concepts.
-
-**Tech:** `Web Development · Full Stack · IoT`
-
----
-
-### 🔐 Cybersecurity & CTF
-
-Participated in cybersecurity competitions and hands-on security challenges involving:
-
-`Web Exploitation · Reverse Engineering · Digital Forensics · Android Security`
-
----
-
 ## 🎯 Currently
 
 * 🎓 Studying Information Technology at **KMUTT SIT**

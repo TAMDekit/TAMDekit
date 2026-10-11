@@ -1,85 +1,59 @@
 # Natthawat Rodchanathanatham
 
-### Software Developer · Cybersecurity Enthusiast · IT Student
+**Software Developer | Full-Stack Development & Cybersecurity**
 
 <p align="left">
   <a href="https://github.com/TAMDekit">
-    <img src="https://img.shields.io/badge/GitHub-TAMDekit-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-TAMDekit-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/natthawat-rodchanathanatham-5592b2422/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
+## About
 
-## 👋 About Me
+I'm an Information Technology student at the School of Information Technology (SIT), KMUTT, interested in building web applications and understanding the systems behind them.
 
-I'm an **Information Technology student at KMUTT (SIT)** with a strong interest in **Software Development, Cybersecurity, and Problem Solving**.
+My main focus is full-stack development, including application logic, API design, database management, and frontend development. I'm also interested in cybersecurity, particularly application security, vulnerability analysis, and CTF challenges.
 
-I enjoy building web applications, exploring security vulnerabilities, participating in CTF competitions, and learning how systems work from both the development and security perspectives.
+I enjoy learning by building projects, debugging problems, and exploring how software works beyond the surface.
 
-```text
-💻 Software Development
-🔐 Cybersecurity & CTF
-🌐 Web & API Development
-🧩 Problem Solving
-🚀 Continuous Learning
+## Technical Skills
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css" alt="Programming languages" />
+</p>
+
+**Frameworks & Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,tailwind,bootstrap" alt="Frameworks and development tools" />
+</p>
+
+**Databases & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker" alt="Databases and infrastructure" />
+</p>
+
+**Development & Security Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,kali" alt="Development and security tools" />
+</p>
+
+## Current Interests
+
+- Building maintainable web applications and REST APIs
+- Designing database schemas and backend systems
+- Exploring web application security and vulnerability analysis
+- Practicing problem-solving through CTF challenges
+
+## Connect
+
+- GitHub: [@TAMDekit](https://github.com/TAMDekit)
+- LinkedIn: [Natthawat Rodchanathanatham](https://www.linkedin.com/in/natthawat-rodchanathanatham-5592b2422/)
 ```
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,sql" />
-</p>
-
-### Frameworks & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap,jquery" />
-</p>
-
-### Database & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws,docker" />
-</p>
-
-### Cybersecurity & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,git,github" />
-</p>
-
-**Security:** Web Security · Vulnerability Assessment · CTF · Digital Forensics · Reverse Engineering · Android APK Analysis
-
-**Tools:** Burp Suite · Nmap · Wireshark · Ghidra · IDA · JADX · APKTool
-
----
-
-## 🎯 Currently
-
-* 🎓 Studying Information Technology at **KMUTT SIT**
-* 💻 Improving my software development skills
-* 🔐 Exploring cybersecurity and CTF challenges
-* 🚀 Building projects and expanding my portfolio
-* 📚 Continuously learning new technologies
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/TAMDekit">
-    <img src="https://img.shields.io/badge/GitHub-TAMDekit-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://discord.com/users/asdwxzx1c">
-    <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
----
